@@ -25,7 +25,7 @@ yahoo_frame = ti.calculate_indicators(yahoo_frame)
 
 # Set connection to Azure
 key_name = 'RootManageSharedAccessKey'
-key_value = '5ug8QabNX3YGNYqI+YK9V+cJwwBvXt3NFhqDaGUI8wI='
+key_value = '---'
 bus_service_name = 'financeInput'
 hub_name = 'input'
 
